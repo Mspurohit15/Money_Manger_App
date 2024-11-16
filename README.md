@@ -39,19 +39,19 @@ A simple and user-friendly Money Manager application built using **Kotlin**. Thi
 
 This project is open to contributions! You can:
 
--> Fork the repository to add features or fix bugs.
--> Create a feature branch: git checkout -b feature-name
--> Commit your changes: git commit -m "Add your feature or fix"
--> Push your changes: git push origin feature-name
+- Fork the repository to add features or fix bugs.
+- Create a feature branch: git checkout -b feature-name
+- Commit your changes: git commit -m "Add your feature or fix"
+- Push your changes: git push origin feature-name
 
--> Open a pull request, and I’ll review and merge your contribution.
+-  Open a pull request, and I’ll review and merge your contribution.
 
 ---
 ## Usage 🛠️
 
-1.Open the app to start managing your finances.
-2.Add your income or expense details with proper categorization.
-3.Use the filter and visual report features to analyze trends and spending habits.
+- Open the app to start managing your finances.
+- Add your income or expense details with proper categorization.
+- Use the filter and visual report features to analyze trends and spending habits.
 
 ---
 

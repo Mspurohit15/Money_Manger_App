@@ -29,9 +29,9 @@ A simple and user-friendly Money Manager application built using **Kotlin**. Thi
    ```bash
    git clone https://github.com/Mspurohit15/Money_Manger_App.git
 
-2.Open the project in Android Studio.
-3.Sync the project with Gradle files.
-4.Build and run the application on an emulator or a physical device.
+2. Open the project in Android Studio.
+3. Sync the project with Gradle files.
+4. Build and run the application on an emulator or a physical device.
 
 ---
 
